@@ -15,7 +15,7 @@ https://github.com/SWPP-2025SPRING/team-project-for-2025-spring-swpp-team-02
 주제: 레이싱 게임 <br>
 
 기간: 2025.04 ~ 2025.06 <br>
-인원: 4명 <br>
+인원: 5명 <br>
 사용 엔진: Unity 2021.3
 
 ## 담당 영역
